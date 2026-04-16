@@ -1,3 +1,4 @@
+
 # Laptop Price Analysis (EDA Project)
 
 ## Dataset
@@ -19,3 +20,6 @@ To analyze how different features affect laptop prices.
 ## Status
 
 Project initialized and dataset added.
+======================================
+
+# EDA_Laptop_Project
